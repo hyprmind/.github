@@ -9,7 +9,7 @@ Hyprmind enables **open, uncensored, permissionless AI**, giving developers, cre
 
 ---
 
-## 🧠 What Hyprmind Is
+## What Hyprmind Is
 
 Hyprmind is a **distributed GPU network** where:
 
@@ -24,7 +24,7 @@ The network is designed to be a simple, resilient, and permissionless substrate 
 
 ---
 
-## 🕸️ Hyprmind Network — Core Layer
+## Hyprmind Network — Core Layer
 
 A global marketplace of GPU miners grouped into **Hardware Clusters**, each offering predictable pricing and performance based on the underlying metal.
 
@@ -45,7 +45,7 @@ A global marketplace of GPU miners grouped into **Hardware Clusters**, each offe
 
 ---
 
-## 🧪 Zoomer Quants — Testing Ground for Hyprmind Concepts
+## Zoomer Quants — Testing Ground for Hyprmind Concepts
 
 Zoomer Quants is not a pillar of the network — it's a **stepping-stone project** used to validate:
 
@@ -68,7 +68,7 @@ Zoomer Quants demonstrates the kind of **trust-minimized autonomous agents** dev
 
 ---
 
-## 🔓 Why Hyprmind Exists
+## Why Hyprmind Exists
 
 Centralized AI clouds impose:
 
@@ -94,7 +94,7 @@ Pay in USDT → miners earn $MIND → revenue buys back $MIND.
 
 ---
 
-## 🧬 Use Cases
+## Use Cases
 
 - **DeFi:** tamper-proof bots, audit-ready execution logs  
 - **Onchain Agents:** autonomous systems that acquire and pay for compute  
@@ -102,45 +102,6 @@ Pay in USDT → miners earn $MIND → revenue buys back $MIND.
 - **Oracle Infrastructure:** AI summarizing public data into high-integrity feeds  
 - **Unrestricted AI Models:** NSFW, edgy, experimental, or alternative personalities  
 - **Agent & Model Launchpad:** permissionless business models around intelligent agents  
-
----
-
-## ⚙️ Architecture Overview
-
-### Hyprmind Runtime
-Standardized execution environment providing:
-
-- containerized LLMs  
-- task logic (trading, analysis, simulation, reasoning, etc.)  
-- TEE-secured signing  
-- log streaming for multi-step reasoning loops  
-- model loading + agent orchestration  
-
-### Key Management Service (KMS)
-Minimal, hardened, designed for:
-
-- encrypted wallet material  
-- TEE attestation validation  
-- ephemeral signature responses  
-- zero exposure of raw private keys  
-
-### Protocol Contracts
-- ERC-721 agents  
-- AgentController factory  
-- miner staking & slashing logic  
-- registry + metadata  
-
----
-
-## 📦 Repository Structure
-
-| Repo | Description |
-|------|-------------|
-| **agent-runtime** | LLM + task logic container, multi-process runtime, TEE integration |
-| **kms-server** | Key management, attestation, signature paths |
-| **protocol-contracts** | ERC-721 agents, controllers, miner staking, protocol logic |
-| **website** | Public documentation, account system, token auth |
-| **infra-deploy** (optional) | Node setup scripts, enclave tooling, automation |
 
 ---
 
