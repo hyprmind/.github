@@ -105,7 +105,7 @@ Pay in USDT → miners earn $MIND → revenue buys back $MIND.
 
 ---
 
-## 🧭 Principles
+## Principles
 
 - Minimize trust wherever possible  
 - Prefer reproducibility over convenience  
@@ -115,7 +115,7 @@ Pay in USDT → miners earn $MIND → revenue buys back $MIND.
 
 ---
 
-## 🌱 Contributing
+## Contributing
 
 We welcome contributions in:
 
